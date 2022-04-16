@@ -2,6 +2,25 @@ Git init
 
 Executa a criação de um repositório
 
-Git Add * ou .
+Git Add -all
 Adiciona todos os arquivos para staging
+
+Git commit -m "mensagem"
+"commita" os arquivos e pastas para empurrar ao repositório contendo uma mensagem que identifica a alteração, de forma resumida
+
+mkdir <nome>
+Cria um diretório
+
+rmdir <nome>
+exclui um diretório
+
+git remote add origin <endereço do repositório criado no GITHUB>
+Adiciona a origem "origin" do respositório do GITHUB para o GIT poder fazer o "push"
+
+O endereço pode ser encontrado na página do GITHUB no botão CODE (em verde) quando acessado repositório via web.
+
+Echo > <arquivo.extensão>
+Cria um arquivo (pode ser utilizado para criar o README.md diretamente no console de comando, ao invés do explorer do windows)
+
+
 
