@@ -1,0 +1,7 @@
+Git init
+
+Executa a criação de um repositório
+
+Git Add * ou .
+Adiciona todos os arquivos para staging
+
